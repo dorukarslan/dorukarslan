@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![](https://img.shields.io/badge/<Flutter>-<>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorukarslan&layout=compact)](https://github.com/dorukarslan/github-readme-stats)
 ![snake svg](https://github.com/dorukarslan/dorukarslan/blob/output/github-contribution-grid-snake.svg)
 <!--
