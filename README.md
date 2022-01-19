@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetyarn.io%2Fyarn-clip%2F22ad381e-4cac-40fc-b232-c58cfe18c82b%2Fgif&psig=AOvVaw2gkGf81WVjJF_lhwi-_GEI&ust=1642682784944000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCf9bLsvfUCFQAAAAAdAAAAABAX.gif)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorukarslan&layout=compact)](https://github.com/dorukarslan/github-readme-stats)
 ![snake svg](https://github.com/dorukarslan/dorukarslan/blob/output/github-contribution-grid-snake.svg)
 <!--
