@@ -1,5 +1,5 @@
 ### Hi there 👋
-![snake svg](https://github.com/dorukarslan/dorukarslan/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/dorukarslan/dorukarslan/blob/output/github-contribution-grid-snake.gif)
 <!--
 **dorukarslan/dorukarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
