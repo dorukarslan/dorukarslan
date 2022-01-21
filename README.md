@@ -1,15 +1,34 @@
 ### Hi there 👋
+
+
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/doruk-arslan-a084bb207/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:doruk.arslan@tedu.edu.tr"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<br />
+
+
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixlok.com%2Fimages%2Fflutter-logo-png-image-free-download%2F&psig=AOvVaw2rj_xjmMa_LaLnzohcN1dj&ust=1642846912217000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiG_ObPwvUCFQAAAAAdAAAAABAJ" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
-<img src = https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-pgyai&psig=AOvVaw1xO62EPldNLUViQvHOepEo&ust=1642847046226000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDigqjQwvUCFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/79598598/150511912-50c0a63b-c976-4802-b9af-0e991620140f.png)>
+<img src="https://www.muratoner.net/wp-content/uploads/2019/01/flutterlogo.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/arduino-logo.png" alt="Arduino" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
 
-<img src="https://www.pngfind.com/pngs/m/320-3209656_unity-logo-unity3d-unity-logo-png-transparent-png.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+
+</p>
 
 
-
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorukarslan&hide=Objective-C,assembly&theme=tokyonight)
+
 ![snake svg](https://github.com/dorukarslan/dorukarslan/blob/output/github-contribution-grid-snake.svg)
+  
+
 <!--
 **dorukarslan/dorukarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
