@@ -3,6 +3,12 @@
 <img src="https://media3.giphy.com/media/rXSL6YwHJyRMYh9vhn/200w.gif"
 </p>
   
+## For more information:
+<p align = "center">
+ https://dorukarslan.com
+  
+</p>
+  
 ## ✉️ You can find me on:
 <p align="center">
 <a href="https://www.linkedin.com/in/doruk-arslan-a084bb207/" target="_blank" rel="noopener noreferrer"> <img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
