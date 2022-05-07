@@ -11,6 +11,7 @@
   
 ## ✉️ You can find me on:
 <p align="center">
+<a href="https://dorukarslan.com/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.linkedin.com/in/doruk-arslan-a084bb207/" target="_blank" rel="noopener noreferrer"> <img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="mailto:doruk.arslan@tedu.edu.tr"> <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
