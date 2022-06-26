@@ -32,7 +32,7 @@
 
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorukarslan&hide=Objective-C,assembly&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorukarslan&hide=Objective-C,assembly,TeX,HTML&theme=tokyonight)
 
 ![snake svg](https://github.com/dorukarslan/dorukarslan/blob/output/github-contribution-grid-snake.svg)
   
