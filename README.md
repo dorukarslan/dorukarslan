@@ -28,7 +28,7 @@
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/arduino-logo.png" alt="Arduino" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorukarslan&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-dorukarslan.vercel.app/api?username=dorukarslan&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorukarslan&langs_count=6&&count_private=true&hide=Objective-C,assembly,TeX,HTML&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
