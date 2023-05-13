@@ -1,20 +1,15 @@
-### Hi there 👋
+### Hey! 👋
 <p align="center">
 <img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif"
 </p>
   
-## For more information:
-<p align = "center">
- https://dorukarslan.com
+- 👨‍💻 Check my projects at  https://dorukarslan.com
+
+- 📫 You can reach me from **doruk.arslan.dev@gmail.com**
   
-</p>
-  
-## ✉️ You can find me on:
-<p align="center">
-<a href="https://www.behance.net/doruk_arslan" target="_blank" rel="noopener noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/04/Behance-Logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://dorukarslan.com/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://www.linkedin.com/in/doruk-arslan-a084bb207/" target="_blank" rel="noopener noreferrer"> <img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="mailto:doruk.arslan@tedu.edu.tr"> <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+- 💬 Follow me from: <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/doruk-arslan-a084bb207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/doruk-arslan-a084bb207/" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/doruk_arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/doruk_arslan" height="30" width="40" /></a>
 </p>
 
 <br />
