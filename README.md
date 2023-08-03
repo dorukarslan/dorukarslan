@@ -21,7 +21,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dorukarslan)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats-dorukarslan.vercel.app/api?username=dorukarslan&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats-dorukarslan.vercel.app/api/top-langs/?username=dorukarslan&langs_count=6&&count_private=true&hide_progress=true&hide=Objective-C,assembly,TeX,HTML,jupyter%20notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+![image](https://www.codewars.com/users/dorukarslan/badges/large)
 
 
 
