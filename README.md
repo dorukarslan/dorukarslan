@@ -25,7 +25,6 @@
 </p>
 
 <br />
-
 <!-- Stats and streaks aligned with graph and top langs -->
 <table>
   <tr>
@@ -33,7 +32,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorukarslan&theme=radical&border=7F3FBF&background=0D1117" alt="Doruk's GitHub streak" />
     </a></td>
     <td><a href="https://github.com/dorukarslan">
-      <img src="https://github-readme-stats-dorukarslan.vercel.app/api?username=dorukarslan&show_icons=true&theme=radical&count_private=true&border_color=7F3FBF" alt="Doruk's GitHub Stats" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dorukarslan&show_icons=true&theme=radical&count_private=true&border_color=7F3FBF" alt="Doruk's GitHub Stats" />
     </a></td>
   </tr>
   <tr>
@@ -41,7 +40,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dorukarslan&theme=radical&border_color=7F3FBF" alt="Doruk's GitHub Contribution" />
     </a></td>
     <td><a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-dorukarslan.vercel.app/api/top-langs/?username=dorukarslan&langs_count=6&count_private=true&hide_progress=true&hide=Objective-C,assembly,TeX,HTML,jupyter%20notebook&theme=tokyonight&border_color=7F3FBF" alt="Doruk's Top Languages" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dorukarslan&langs_count=6&count_private=true&hide_progress=true&hide=Objective-C,assembly,TeX,HTML,jupyter%20notebook&theme=tokyonight&border_color=7F3FBF" alt="Doruk's Top Languages" />
     </a></td>
   </tr>
 </table>
