@@ -40,7 +40,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dorukarslan&theme=radical&border_color=7F3FBF" alt="Doruk's GitHub Contribution" />
     </a></td>
     <td><a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dorukarslan&langs_count=6&count_private=true&hide_progress=true&hide=Objective-C,C,Makefile,assembly,Shell,TeX,HTML,jupyter%20notebook&theme=tokyonight&border_color=7F3FBF" alt="Doruk's Top Languages" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dorukarslan&langs_count=6&count_private=true&hide_progress=true&hide=Objective-C,TeX,HTML,jupyter%20notebook&theme=tokyonight&border_color=7F3FBF" alt="Doruk's Top Languages" />
     </a></td>
   </tr>
 </table>
