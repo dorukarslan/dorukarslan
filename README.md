@@ -51,7 +51,7 @@ I thrive on learning new technologies and adapting them quickly in my projects.
 </div>
 <!-- clear the float and add some vertical breathing room -->
 <br clear="both" style="margin-bottom:32px;" />
-## 🧰 Languages and Tools:
+<h3 align="left">💻 Languages and tools</h3>
 
 <p align="center">
 
