@@ -1,20 +1,56 @@
-### Hey! 👋
-<p align="center">
-<img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif"
+<h2 align="left">Hey! 🤟 </h2>
+
+<br clear="both" />
+
+<img
+  align="right"
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRpZm5hNWFhMnRmNTU5NTE4ZjFibzJxdHMwdnFqZGZscmlsY3ppMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dbtDDSvWErdf2/giphy.gif"
+  style="
+    width: 460px;
+    height: auto;
+    margin: 0 0 24px 24px;
+  "
+  alt="Doruk coding GIF"
+/>
+
+
+
+<h3 align="left">👨🏻‍💻  About Me</h3>
+
+<p align="left">
+
+I’m Doruk, a computer engineering graduate with 6 years of software development experience, including 3+ years as a **full-stack mobile developer**. I’m also passionate about **embedded systems and IoT** and working on projects in this field.
+I thrive on learning new technologies and adapting them quickly in my projects.  
+
 </p>
-  
-- 👨‍💻 Check my projects at  https://dorukarslan.com
-
-- 📫 You can reach me from **doruk.arslan.dev@gmail.com**
-  
-- 💬 Follow me from: <p align="left">
-<a href="https://www.linkedin.com/in/doruk-arslan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/doruk-arslan/" height="30" width="40" /></a>
-<a href="https://www.behance.net/doruk_arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/doruk_arslan" height="30" width="40" /></a>
-</p>
-
-<br />
-
-
+<div align="left">
+  <a href="https://dorukarslan.com" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Portfolio&logo=user&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"
+      height="25"
+      style="margin-right:8px;"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/doruk-arslan-a084bb207/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=0077B5&logo=linkedin&logoColor=white&labelColor=&style=for-the-badge"
+      height="25"
+      style="margin-right:8px;"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://www.behance.net/doruk_arslan" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge"
+      height="25"
+      style="margin-right:8px;"
+      alt="Behance"
+    />
+  </a>
+</div>
+<!-- clear the float and add some vertical breathing room -->
+<br clear="both" style="margin-bottom:32px;" />
 ## 🧰 Languages and Tools:
 
 <p align="center">
